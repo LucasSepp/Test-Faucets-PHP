@@ -4,5 +4,5 @@ To run the code with different types of faucets or people in the queue, you can 
 
 Faucet and Person classes have constructors, as follows:
 
-new Faucet(<<mililiters per second>)<br>
+new Faucet(<<mililiters per second>>)<br>
 new Person(<bottle size (mililiters)>)
